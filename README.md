@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Warcraft Rumble**. The
 **Get the most recent version of Warcraft Rumble today!**
 
 ---
-**Last updated:** 2026-09-11 23:38:29 UTC
+**Last updated:** 2026-09-12 01:54:26 UTC
